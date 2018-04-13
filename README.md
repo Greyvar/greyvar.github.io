@@ -11,9 +11,9 @@ There are some fairly ambitious plans for it in the future, to support server-si
 
 ## How do I get updates?
 
-If you're a Facebook-y kind of person, there is a Facebook page here: https://www.facebook.com/greyvar.game/
+If you're a Facebook-y kind of person, there is a [Facebook page](https://www.facebook.com/greyvar.game/).
 
-If you're a GitHub-y kind of person (tech-y/code-y person), you can find us here: http://github.com/greyvar 
+If you're a GitHub-y kind of person (tech-y/code-y person), there is a [GitHub Organisation page](http://github.com/greyvar).
 
 ## How do I play the game?
 
