@@ -11,7 +11,7 @@ There are some fairly ambitious plans for it in the future, to support server-si
 
 ## What are the latest updates?
 
-* [13th April](2018-04-13.md)
+* [13th April 2018 - Hello World!](2018-04-13.md)
 
 If you're a Facebook-y kind of person, there is a [Facebook page](https://www.facebook.com/greyvar.game/).
 
