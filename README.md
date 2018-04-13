@@ -1,13 +1,13 @@
 # Greyvar
 
-Greyvar is a game that is in development. it currently;
+Greyvar is a game that is in development. Here's what it currently has; 
 
-* 8-Bit art style
-* [] Multiplayer (Online/LAN and Local shared-screen), netcode is pretty buggy
-* Cross-platform (works on Linux and Windows now), Android support planned.
-* Supports all modern controllers (I use a XBox 360 controller in development) 
+* **8-Bit art style** - because 8-bit is awesome
+* **Multiplayer** - Online/LAN and Local shared-screen
+* **Cross-platform** - works on Linux and Windows now, Android support planned
+* **Controller support** - XBox 360 controller tested so far
 
-There are some fairly ambitious plans for it in the future, to support server-side game modes/modding for example. :)
+There are some fairly ambitious plans for it in the future :) Follow to get updates!
 
 ## What are the latest updates?
 
