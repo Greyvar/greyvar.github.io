@@ -3,7 +3,7 @@
 Greyvar is a game that is in development. it currently;
 
 * 8-Bit art style
-* Multiplayer (Online/LAN and Local shared-screen), netcode is pretty buggy
+* [] Multiplayer (Online/LAN and Local shared-screen), netcode is pretty buggy
 * Cross-platform (works on Linux and Windows now), Android support planned.
 * Supports all modern controllers (I use a XBox 360 controller in development) 
 
@@ -13,9 +13,9 @@ There are some fairly ambitious plans for it in the future, to support server-si
 
 * [13th April 2018 - Hello World!](2018-04-13.md)
 
-If you're a Facebook-y kind of person, there is a [Facebook page](https://www.facebook.com/greyvar.game/).
+If you want to follow these updates and join in, there are is a [Facebook page](https://www.facebook.com/greyvar.game/), a [Discord server](https://discord.gg/dwGJuy8) and a [YouTube channel](https://www.youtube.com/channel/UCGbGSSWiiFeUS36oESY02iw).
 
-If you're a GitHub-y kind of person (tech-y/code-y person), there is a [GitHub Organisation page](http://github.com/greyvar).
+If you're a GitHub-y kind of person (tech-y/code-y person), there is a [GitHub Organisation page](http://github.com/greyvar). That's more if you want to follow with each line of code as it's written. You weirdo.
 
 ## How do I play the game?
 
