@@ -1,6 +1,6 @@
 # Greyvar
 
-![Greyvar logo](res/img/logo.png "Greyvar logo")
+![Greyvar logo](https://raw.githubusercontent.com/Greyvar/greyvar.github.io/master/res/img/logo.png "Greyvar logo")
 
 Greyvar is a game that is in development. it currently;
 
