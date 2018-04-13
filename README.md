@@ -6,9 +6,11 @@ Greyvar is a game that is in development. Here's what it currently has;
 * **Multiplayer** - Online/LAN and Local shared-screen
 * **Cross-platform** - works on Linux and Windows for now.
 * **Controller support** - XBox 360 controller tested so far
-* **Open Source** - Because Open Source is great :). Maybe there will be paid distributions of it in the future though.
+* **Open Source** - Because Open Source is great :). This means there will always be a free version available. Maybe there will be paid distributions of it in the future though.
 
 There are some fairly ambitious plans for the game in the future :) Follow to get updates!
+
+![2018-04-13.jpg](https://github.com/Greyvar/media/raw/master/screenshots/2018-04-13.jpg)
 
 ## What are the latest updates?
 
