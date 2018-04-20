@@ -14,7 +14,7 @@ There are some fairly ambitious plans for the game in the future :) Follow to ge
 
 ## What are the latest updates?
 
-* [20th April 2018 - Building a house roof](2018-04-20.md)
+* [20th April 2018 - Building 8-bit houses](2018-04-20.md)
 * [13th April 2018 - Hello World!](2018-04-13.md)
 
 If you want to follow these updates and join in, there are is a [Facebook page](https://www.facebook.com/greyvar.game/), a [Discord server](https://discord.gg/dwGJuy8) and a [YouTube channel](https://www.youtube.com/channel/UCGbGSSWiiFeUS36oESY02iw).
