@@ -12,12 +12,6 @@ Here's a few bits and pieces about the game;
 * **Controller support** - XBox 360 controller tested so far
 * **Open Source** - Because Open Source is great :). This means there will always be a free version available. Maybe there will be paid distributions of it in the future though.
 
-The game is currently in the **Development / Design** phase.
-
-<p style = "background-color: #efefef">
-**Development / Design** &raquo; Alpha testing &raquo; Beta testing &raquo; Release
-</p>
-
 There are some fairly ambitious plans for the game in the future :) Follow to get updates!
 
 ## What are the latest updates?
