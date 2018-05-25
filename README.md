@@ -2,11 +2,11 @@
 
 Greyvar is a casual pace multiplayer co-op puzzle game. Weird and wonderful worlds of puzzles that include quests, logic puzzles, tower defence, building, farming, and exploration in a 8-bit art style.
 
-Here's a few bits and pieces about the game;
-
 * **Casual** - No health bars, no time limits, this is the sort of game you can
   play to de-stress and chill out with a friend!
-* **Multiplayer** - Online/LAN and Local shared-screen
+* **Multiplayer co-op** - Online/LAN and Local shared-screen
+* **Puzzles** - Every world has new an interesting puzzles, inspired by lots of
+  gaming genres. You can create your own worlds with the world editor too!
 * **8-Bit art style** - because 8-bit is awesome
 * **Cross-platform** - works on Linux and Windows for now.
 * **Controller support** - XBox 360 controller tested so far
