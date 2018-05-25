@@ -1,6 +1,12 @@
 # Greyvar
 
-Greyvar is a game that is in development. Here's what it currently has; 
+Greyvar is a casual pace multiplayer co-op puzzle game. Weird and wonderful worlds of puzzles that include quests, logic puzzles, tower defence, building, farming, and exploration in a 8-bit art style.
+
+## In development
+
+**__Development / Design__** &raquo; Alpha testing &raquo; Beta testing &raquo; Release
+
+Here's a few bits and pieces about the game;
 
 * **8-Bit art style** - because 8-bit is awesome
 * **Multiplayer** - Online/LAN and Local shared-screen
