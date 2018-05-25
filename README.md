@@ -12,15 +12,13 @@ Greyvar is a casual pace multiplayer co-op puzzle game. Weird and wonderful worl
 * **Controller support** - XBox 360 controller tested so far
 * **Open Source** - Because Open Source is great :). This means there will always be a free version available. Maybe there will be paid distributions of it in the future though.
 
-There are some fairly ambitious plans for the game in the future :) Follow to get updates!
-
 ## What are the latest updates?
 
 * [25th May 2018 - The Map Editor](2018-05-25.md)
 * [20th April 2018 - Building 8-bit houses](2018-04-20.md)
 * [13th April 2018 - Hello World!](2018-04-13.md)
 
-If you want to follow these updates and join in, there are is a [Facebook page](https://www.facebook.com/greyvar.game/), a [Discord server](https://discord.gg/dwGJuy8) and a [YouTube channel](https://www.youtube.com/channel/UCGbGSSWiiFeUS36oESY02iw).
+There are some fairly ambitious plans for the future :) If you want to follow these updates and join in, there are is a [Facebook page](https://www.facebook.com/greyvar.game/), a [Discord server](https://discord.gg/dwGJuy8) and a [YouTube channel](https://www.youtube.com/channel/UCGbGSSWiiFeUS36oESY02iw).
 
 If you're a GitHub-y kind of person (tech-y/code-y person), there is a [GitHub Organisation page](http://github.com/greyvar). That's more if you want to follow with each line of code as it's written. You weirdo.
 
