@@ -14,6 +14,7 @@ There are some fairly ambitious plans for the game in the future :) Follow to ge
 
 ## What are the latest updates?
 
+* [31st May 2018 - Entity layer in the map editor](2018-05-31.md)
 * [25th May 2018 - The Map Editor](2018-05-25.md)
 * [20th April 2018 - Building 8-bit houses](2018-04-20.md)
 * [13th April 2018 - Hello World!](2018-04-13.md)
