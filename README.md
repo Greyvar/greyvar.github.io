@@ -14,6 +14,7 @@ Greyvar is a casual pace multiplayer co-op puzzle game. Weird and wonderful worl
 
 ## What are the latest updates?
 
+* [25th June 2018 - Visualization of recent changes](2018-06-25.md)
 * [31st May 2018 - Entity layer in the map editor](2018-05-31.md)
 * [25th May 2018 - The Map Editor](2018-05-25.md)
 * [20th April 2018 - Building 8-bit houses](2018-04-20.md)
